@@ -13,7 +13,7 @@ c = int(input("c="))
 
 d = b ** 2 - 4*a*c
 
-d
+print(d)
 
 if d < 0:
     print("Решений нет")
